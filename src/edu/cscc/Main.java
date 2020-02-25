@@ -1,15 +1,15 @@
 package edu.cscc;
 import java.util.*;
 
+/**
+ * Main Class
+ * @Author Hudson Leapley
+ * Rock, Paper, Scissor, Lizard, Spock, main class for user input and game control
+ */
 public class Main {
 
     private static Scanner input = new Scanner(System.in);
 
-    /**
-     * Main Class
-     * @Author Hudson Leapley
-     * Rock, Paper, Scissor, Lizard, Spock, main class for user input and game control
-     */
     public static void main(String[] args) {
         String h_pick;
         String c_pick;
